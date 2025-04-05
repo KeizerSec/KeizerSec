@@ -74,7 +74,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/KeizerSec/KeizerSec/output/snake.svg" alt="Snake animation" />
-
-###
