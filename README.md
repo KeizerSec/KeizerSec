@@ -69,24 +69,6 @@
 
 ###
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif"  />
-
-###
-
-<img align="left" height="200" src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM4OTIyMTQsIm5iZiI6MTc0Mzg5MTkxNCwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDA1VDIyMjUxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY5NzczNDQyMjgzYWFiZTczMjRlMGQwNmI2MjNlYzE3YjJmNjc1ZTVmYjUxOWIyNDkxM2I0MzljYTM1MTQxZTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.0Yp-VqKzwU8O--3C76PkYAmFW73M0V_IBHARxZQTPOg"  />
-
-###
-
-<img align="left" height="200" src="https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif"  />
-
-###
-
-<img align="left" height="200" src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif"  />
-
-###
-
-<br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeizerSec/KeizerSec/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KeizerSec/KeizerSec/output/pacman-contribution-graph.svg">
