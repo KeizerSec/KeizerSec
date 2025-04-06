@@ -74,3 +74,8 @@
 </div>
 
 ###
+
+## 📂 Mes dépôts GitHub
+
+- 🔒 [Cybersec-Lab](https://github.com/KeizerSec/Cybersec-Lab) : Scripts et write-ups réalisés durant ma montée en compétence.
+- 🧬 [Offensive-Research](https://github.com/KeizerSec/Offensive-Research) : Recherches sur la sécurité offensive, mémoire, syscall, hooking.
