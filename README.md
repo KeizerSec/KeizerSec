@@ -1,15 +1,5 @@
 <h2 align="left">👋 KeizerSec ici. Passionné de cybersécurité et d’analyse système</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeizerSec&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KeizerSec&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
 
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -28,7 +18,7 @@
 ###
 
 ## 📂 Mes dépôts GitHub
-- 🔍 [Research-Exploratory](https://github.com/KeizerSec/LitM-Whitepaper)
+- 🔍 [Research-Exploratory](https://github.com/KeizerSec/LitM-Whitepaper) : Recherche exploratoire
 - 🔒 [Cybersec-Lab](https://github.com/KeizerSec/Cybersec-Lab) : Scripts et write-ups réalisés durant ma montée en compétence.
 - 🧬 [Offensive-Research](https://github.com/KeizerSec/Offensive-Research) : Recherches sur la sécurité offensive, mémoire, syscall, hooking.
 - 📡 [scan-vuln-ultime-pro](https://github.com/KeizerSec/scan-vuln-ultime-pro) : Scanner de vulnérabilités automatisé avec Flask, Nmap et Docker. Export HTML, cache LRU, API REST.
