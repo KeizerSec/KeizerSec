@@ -14,7 +14,7 @@ Passionné de cybersécurité en **recherche active d'un premier poste SOC Analy
 
 En poste en support IT N1, je monte en compétence en parallèle via des labs, des CTF, de la recherche offensive et de la veille threat intel.
 
-Je fais partie du **top 2% mondial sur TryHackMe** avec 178 rooms complétées et j'ai publié un whitepaper de recherche indépendante sur les architectures LLM multi-modèles (LitM).
+Je fais partie du **top 2% mondial sur TryHackMe** avec 179 rooms complétées et j'ai publié un whitepaper de recherche indépendante sur les architectures LLM multi-modèles (LitM).
 
 ---
 
