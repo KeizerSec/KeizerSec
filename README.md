@@ -115,6 +115,5 @@ Je fais partie du **top 2% mondial sur TryHackMe** avec 178 rooms complétées e
 ---
 
 <div align="center">
-<sub>Open to opportunities — SOC Analyst · Threat Intelligence · Blue Team</sub><br/>
-<sub>Kacime Benkhelifa — keizer.cybersec@protonmail.com</sub>
+<sub>Open to opportunities — SOC Analyst · Threat Intelligence · Blue Team</sub>
 </div>
