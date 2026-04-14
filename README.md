@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=KeizerSec+%7C+Cybersecurity+%26+Threat+Intelligence;SOC+Analyst+Junior+%E2%80%94+en+recherche+active;Top+2%25+TryHackMe+%7C+%5B0xD%5D%5BLEGEND%5D+%7C+178+rooms" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=KeizerSec+%7C+Cybersecurity+%26+Threat+Intelligence;SOC+Analyst+Junior+%E2%80%94+en+recherche+active;Top+2%25+TryHackMe+%7C+%5B0xD%5D%5BLEGEND%5D+%7C+179+rooms" alt="Typing SVG" />
+
+![Profile views](https://komarev.com/ghpvc/?username=KeizerSec&color=00ff9d&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -31,7 +33,7 @@ Je fais partie du **top 2% mondial sur TryHackMe** avec 178 rooms complétées e
 
 | Rang mondial | Rooms complétées | Badges | Niveau |
 |:---:|:---:|:---:|:---:|
-| **Top 2%** — #28398 | **178** | **28** | `[0xD][LEGEND]` |
+| **Top 2%** — #28398 | **179** | **28** | `[0xD][LEGEND]` |
 
 **Paths complétés :** SOC Level 1 · Offensive Pentesting · Pre-Security
 
@@ -104,13 +106,29 @@ Je fais partie du **top 2% mondial sur TryHackMe** avec 178 rooms complétées e
 
 </div>
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KeizerSec&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=6" />
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeizerSec/KeizerSec/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KeizerSec/KeizerSec/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/KeizerSec/KeizerSec/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
 ---
 
 ## 📬 Contact
 
 [![Email](https://img.shields.io/badge/keizer.cybersec@protonmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:keizer.cybersec@protonmail.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Keizer-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Keizer)
-[![Portfolio](https://img.shields.io/badge/Portfolio-KeizerSec-00FF9D?style=for-the-badge&logo=github&logoColor=black)](https://github.com/KeizerSec)
+[![Portfolio](https://img.shields.io/badge/Portfolio-keizer--portfolio.vercel.app-00FF9D?style=for-the-badge&logo=vercel&logoColor=black)](https://keizer-portfolio.vercel.app)
 
 ---
 
