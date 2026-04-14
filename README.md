@@ -10,7 +10,7 @@
 
 Passionné de cybersécurité en **recherche active d'un premier poste SOC Analyst ou Threat Intelligence Junior**.
 
-Actuellement en support IT N1 chez **SPIE** — je monte en compétence en parallèle via des labs, des CTF, de la recherche offensive et de la veille threat intel.
+En poste en support IT N1, je monte en compétence en parallèle via des labs, des CTF, de la recherche offensive et de la veille threat intel.
 
 Je fais partie du **top 2% mondial sur TryHackMe** avec 178 rooms complétées et j'ai publié un whitepaper de recherche indépendante sur les architectures LLM multi-modèles (LitM).
 
@@ -99,8 +99,8 @@ Je fais partie du **top 2% mondial sur TryHackMe** avec 178 rooms complétées e
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KeizerSec&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeizerSec&layout=compact&theme=chartreuse-dark&hide_border=true" height="160" />
+<img src="https://streak-stats.demolab.com?user=KeizerSec&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=fr" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeizerSec&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=6" height="160" />
 
 </div>
 
@@ -115,5 +115,6 @@ Je fais partie du **top 2% mondial sur TryHackMe** avec 178 rooms complétées e
 ---
 
 <div align="center">
-<sub>Open to opportunities — SOC Analyst · Threat Intelligence · Blue Team</sub>
+<sub>Open to opportunities — SOC Analyst · Threat Intelligence · Blue Team</sub><br/>
+<sub>Kacime Benkhelifa — keizer.cybersec@protonmail.com</sub>
 </div>
