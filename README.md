@@ -12,7 +12,7 @@
 
 Passionné de cybersécurité en **recherche active d'un premier poste SOC Analyst ou Threat Intelligence Junior**.
 
-En poste en support IT N1, je monte en compétence en parallèle via des labs, des CTF, de la recherche offensive et de la veille threat intel.
+En poste en support IT, je monte en compétence en parallèle via des labs, des CTF, de la recherche offensive et de la veille threat intel.
 
 Je fais partie du **top 2% mondial sur TryHackMe** avec 179 rooms complétées et j'ai publié un whitepaper de recherche indépendante sur les architectures LLM multi-modèles (LitM).
 
@@ -20,8 +20,8 @@ Je fais partie du **top 2% mondial sur TryHackMe** avec 179 rooms complétées e
 
 ## 🎯 Objectif
 
-> **SOC Analyst N1/N2** ou **Threat Intelligence Junior**
-> Disponible — Paris / Île-de-France / Remote
+> **SOC Analyst N1** ou **Threat Intelligence Junior**
+> Disponible — Lyon / Remote
 
 ---
 
