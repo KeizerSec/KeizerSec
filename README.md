@@ -81,7 +81,7 @@ Je fais partie du **top 2% mondial sur TryHackMe** avec 179 rooms complétées e
 | Projet | Description | Stack |
 |--------|-------------|-------|
 | [🧠 LitM-Whitepaper](https://github.com/KeizerSec/LitM-Whitepaper) | Recherche indépendante sur les limites de l'alignement LLM face aux architectures multi-modèles. 38 273 LOC analysées. | AI Security · Research |
-| [🔐 scan-vuln-ultime-pro](https://github.com/KeizerSec/scan-vuln-ultime-pro) | Scanner de vulnérabilités automatisé : interface Flask, cache LRU, rate-limiting, export HTML, API REST. Containerisé Docker. | Python · Flask · Docker · Nmap |
+| [NetAudit](https://github.com/KeizerSec/netaudit) | Scanner de vulnérabilités réseau : Nmap + Vulners, API REST Flask, parsing structuré JSON, rapports HTML dark-mode, Gunicorn, Docker. | Python · Flask · Docker · Nmap |
 | [🧬 Offensive-Research](https://github.com/KeizerSec/Offensive-Research) | Notes de recherche offensive : analyse mémoire, syscalls, hooking Windows, Windows internals. | C/C++ · Assembly · Windows |
 | [🔒 Cybersec-Lab](https://github.com/KeizerSec/Cybersec-Lab) | Write-ups TryHackMe (Blue/EternalBlue, Kenobi, RootMe) + scripts Python (log parser SSH, Nmap templates). | Python · Shell · Write-ups |
 
