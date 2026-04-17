@@ -108,12 +108,6 @@ Je fais partie du **top 2% mondial sur TryHackMe** avec 179 rooms complétées e
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KeizerSec&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=6" />
-
-</div>
-
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeizerSec/KeizerSec/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KeizerSec/KeizerSec/output/github-contribution-grid-snake.svg" />
