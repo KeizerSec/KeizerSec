@@ -39,6 +39,8 @@ Je fais partie du **top 2% mondial sur TryHackMe** avec 179 rooms complétées e
 
 </div>
 
+> 💡 *Ce badge est généré par [**KeizerSec/Tryhackme-Badge**](https://github.com/KeizerSec/Tryhackme-Badge) — une GitHub Action que j'ai conçue et publiée sur le [Marketplace officiel](https://github.com/marketplace/actions/tryhackme-badge) pour remplacer l'action `p4p1/tryhackme-badge-workflow` archivée.*
+
 ---
 
 ## 🧰 Stack technique
@@ -80,6 +82,7 @@ Je fais partie du **top 2% mondial sur TryHackMe** avec 179 rooms complétées e
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
+| [🏷️ Tryhackme-Badge](https://github.com/KeizerSec/Tryhackme-Badge) | GitHub Action publiée sur le [Marketplace officiel](https://github.com/marketplace/actions/tryhackme-badge) — génère un badge SVG live des stats TryHackMe avec 5 thèmes rotatifs. Successeur de l'action archivée `p4p1/tryhackme-badge-workflow`. **Alimente le badge ci-dessus**. | Node.js · GitHub Actions · SVG |
 | [🧠 LitM-Whitepaper](https://github.com/KeizerSec/LitM-Whitepaper) | Recherche indépendante sur les limites de l'alignement LLM face aux architectures multi-modèles. 38 273 LOC analysées. | AI Security · Research |
 | [🔍 NetAudit](https://github.com/KeizerSec/netaudit) | Scanner de vulnérabilités réseau avec corrélation MITRE ATT&CK — Nmap + Vulners, mapping CVE/service → techniques d'attaque, chemin d'attaque kill chain, niveau de risque CRITICAL/HIGH/MEDIUM/LOW, rapport HTML dark-mode, API REST, Docker. | Python · Flask · MITRE ATT&CK · Docker · Nmap |
 | [🧬 Offensive-Research](https://github.com/KeizerSec/Offensive-Research) | Notes de recherche offensive : analyse mémoire, syscalls, hooking Windows, Windows internals. | C/C++ · Assembly · Windows |
