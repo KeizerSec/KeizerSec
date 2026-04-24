@@ -29,7 +29,7 @@ Je fais partie du **top 2% mondial sur TryHackMe** avec 179 rooms complétées e
 
 <div align="center">
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Keizer.png)](https://tryhackme.com/p/Keizer)
+[![TryHackMe](https://raw.githubusercontent.com/KeizerSec/KeizerSec/main/assets/thm_badge.svg)](https://tryhackme.com/p/Keizer)
 
 | Rang mondial | Rooms complétées | Badges | Niveau |
 |:---:|:---:|:---:|:---:|
