@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=KeizerSec+%7C+Cybersecurity+%26+Threat+Intelligence;SOC+Analyst+Junior+%E2%80%94+en+recherche+active;Top+2%25+TryHackMe+%7C+%5B0xD%5D%5BLEGEND%5D+%7C+179+rooms" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=KeizerSec+%7C+Cybersecurity+%26+Threat+Intelligence;SOC+Analyst+Junior+%E2%80%94+Lyon+%2F+Remote+%C2%B7+Disponible;Threat+Intel+%C2%B7+Blue+Team+%C2%B7+Open+Source+contributor" alt="Typing SVG" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=KeizerSec&color=00ff9d&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -31,15 +31,23 @@ Je fais partie du **top 2% mondial sur TryHackMe** avec 179 rooms complétées e
 
 [![TryHackMe](https://raw.githubusercontent.com/KeizerSec/KeizerSec/main/assets/thm_badge.svg)](https://tryhackme.com/p/Keizer)
 
-| Rang mondial | Rooms complétées | Badges | Niveau |
-|:---:|:---:|:---:|:---:|
-| **Top 2%** — #28398 | **179** | **28** | `[0xD][LEGEND]` |
-
 **Paths complétés :** SOC Level 1 · Offensive Pentesting · Pre-Security
 
 </div>
 
 > 💡 *Ce badge est généré par [**KeizerSec/Tryhackme-Badge**](https://github.com/KeizerSec/Tryhackme-Badge) — une GitHub Action que j'ai conçue et publiée sur le [Marketplace officiel](https://github.com/marketplace/actions/tryhackme-badge) pour remplacer l'action `p4p1/tryhackme-badge-workflow` archivée.*
+
+---
+
+## 📂 Projets
+
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| [🏷️ Tryhackme-Badge](https://github.com/KeizerSec/Tryhackme-Badge) | GitHub Action publiée sur le [Marketplace officiel](https://github.com/marketplace/actions/tryhackme-badge) — génère un badge SVG live des stats TryHackMe avec 5 thèmes rotatifs. Successeur de l'action archivée `p4p1/tryhackme-badge-workflow`. **Alimente le badge ci-dessus**. | Node.js · GitHub Actions · SVG |
+| [🧠 LitM-Whitepaper](https://github.com/KeizerSec/LitM-Whitepaper) | Recherche indépendante sur les limites de l'alignement LLM face aux architectures multi-modèles. 38 273 LOC analysées. | AI Security · Research |
+| [🔍 NetAudit](https://github.com/KeizerSec/netaudit) | Scanner de vulnérabilités réseau avec corrélation MITRE ATT&CK — Nmap + Vulners, mapping CVE/service → techniques d'attaque, chemin d'attaque kill chain, niveau de risque CRITICAL/HIGH/MEDIUM/LOW, rapport HTML dark-mode, API REST, Docker. | Python · Flask · MITRE ATT&CK · Docker · Nmap |
+| [🧬 Offensive-Research](https://github.com/KeizerSec/Offensive-Research) | Notes de recherche offensive : analyse mémoire, syscalls, hooking Windows, Windows internals. | C/C++ · Assembly · Windows |
+| [🔒 Cybersec-Lab](https://github.com/KeizerSec/Cybersec-Lab) | Write-ups TryHackMe (Blue/EternalBlue, Kenobi, RootMe) + scripts Python (log parser SSH, Nmap templates). | Python · Shell · Write-ups |
 
 ---
 
@@ -63,7 +71,7 @@ Je fais partie du **top 2% mondial sur TryHackMe** avec 179 rooms complétées e
 **Tests de sécurité**
 
 ![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white)
 ![AD](https://img.shields.io/badge/Active_Directory_Attacks-003087?style=for-the-badge&logoColor=white)
 
@@ -78,25 +86,15 @@ Je fais partie du **top 2% mondial sur TryHackMe** avec 179 rooms complétées e
 
 ---
 
-## 📂 Projets
-
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| [🏷️ Tryhackme-Badge](https://github.com/KeizerSec/Tryhackme-Badge) | GitHub Action publiée sur le [Marketplace officiel](https://github.com/marketplace/actions/tryhackme-badge) — génère un badge SVG live des stats TryHackMe avec 5 thèmes rotatifs. Successeur de l'action archivée `p4p1/tryhackme-badge-workflow`. **Alimente le badge ci-dessus**. | Node.js · GitHub Actions · SVG |
-| [🧠 LitM-Whitepaper](https://github.com/KeizerSec/LitM-Whitepaper) | Recherche indépendante sur les limites de l'alignement LLM face aux architectures multi-modèles. 38 273 LOC analysées. | AI Security · Research |
-| [🔍 NetAudit](https://github.com/KeizerSec/netaudit) | Scanner de vulnérabilités réseau avec corrélation MITRE ATT&CK — Nmap + Vulners, mapping CVE/service → techniques d'attaque, chemin d'attaque kill chain, niveau de risque CRITICAL/HIGH/MEDIUM/LOW, rapport HTML dark-mode, API REST, Docker. | Python · Flask · MITRE ATT&CK · Docker · Nmap |
-| [🧬 Offensive-Research](https://github.com/KeizerSec/Offensive-Research) | Notes de recherche offensive : analyse mémoire, syscalls, hooking Windows, Windows internals. | C/C++ · Assembly · Windows |
-| [🔒 Cybersec-Lab](https://github.com/KeizerSec/Cybersec-Lab) | Write-ups TryHackMe (Blue/EternalBlue, Kenobi, RootMe) + scripts Python (log parser SSH, Nmap templates). | Python · Shell · Write-ups |
-
----
-
 ## 📝 Write-ups & Labs notables
 
 - **Active Directory Lab** — Kerberoasting, DCSync, analyse Event IDs, mapping MITRE ATT&CK
-- **EternalBlue (MS17-010)** — Exploitation SMB via Metasploit, RCE, post-exploitation
-- **Kenobi** — ProFTPD + Samba NFS, PATH Variable Injection (PrivEsc)
+- [**EternalBlue (MS17-010)**](https://github.com/KeizerSec/Cybersec-Lab/blob/main/blue.md) — Exploitation SMB via Metasploit, RCE, post-exploitation
+- [**Kenobi**](https://github.com/KeizerSec/Cybersec-Lab/blob/main/kenobi.md) — ProFTPD + Samba NFS, PATH Variable Injection (PrivEsc)
 - **Kernel Rootkit Analysis** — Hooking syscall, persistence, analyse comportementale
-- **Prompt Injection LLM** — Bypass garde-fous, escalade de contexte, architectures multi-modèles
+- [**Prompt Injection LLM**](https://github.com/KeizerSec/LitM-Whitepaper) — Bypass garde-fous, escalade de contexte, architectures multi-modèles
+
+> 📂 D'autres write-ups disponibles dans [`Cybersec-Lab`](https://github.com/KeizerSec/Cybersec-Lab) (RootMe, Vulnversity, cheatsheet reverse-shell, log parser SSH).
 
 ---
 
@@ -130,5 +128,7 @@ Je fais partie du **top 2% mondial sur TryHackMe** avec 179 rooms complétées e
 ---
 
 <div align="center">
-<sub>Open to opportunities — SOC Analyst · Threat Intelligence · Blue Team</sub>
+
+[![Open to opportunities](https://img.shields.io/badge/%F0%9F%92%BC_OPEN_TO_OPPORTUNITIES-SOC_Analyst_%C2%B7_Threat_Intel_%C2%B7_Blue_Team-00FF9D?style=for-the-badge&labelColor=0d1117)](mailto:keizer.cybersec@protonmail.com)
+
 </div>
