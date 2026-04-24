@@ -39,7 +39,7 @@ function buildSvg(data) {
   const league = (data.leagueTier || 'unranked').toUpperCase();
   const updatedAt = new Date().toISOString().slice(0, 10);
 
-  const FONT_MONO = "'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace";
+  const FONT_MONO = "ui-monospace,'SF Mono','Menlo','Cascadia Code','Consolas','Liberation Mono',monospace";
 
   return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 180" width="640" height="180" role="img" aria-label="TryHackMe stats for ${username}">
   <title>TryHackMe — ${username} — Top ${topPct}% — Rank #${rank}</title>
