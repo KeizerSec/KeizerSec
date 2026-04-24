@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=KeizerSec+%7C+Cybersecurity+%26+Threat+Intelligence;SOC+Analyst+Junior+%E2%80%94+Lyon+%2F+Remote+%C2%B7+Disponible;Threat+Intel+%C2%B7+Blue+Team+%C2%B7+Open+Source+contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=850&lines=KeizerSec+%7C+Cybersecurity+%26+Threat+Intelligence;SOC+Analyst+Junior+%E2%80%94+Lyon+%2F+Remote+%C2%B7+Disponible;Threat+Intel+%C2%B7+Blue+Team+%C2%B7+Open+Source+contributor" alt="Typing SVG" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=KeizerSec&color=00ff9d&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -88,10 +88,10 @@ Je fais partie du **top 2% mondial sur TryHackMe** avec 179 rooms complétées e
 
 ## 📝 Write-ups & Labs notables
 
-- **Active Directory Lab** — Kerberoasting, DCSync, analyse Event IDs, mapping MITRE ATT&CK
+- [**Active Directory Lab**](https://github.com/KeizerSec/Cybersec-Lab) — Kerberoasting, DCSync, analyse Event IDs, mapping MITRE ATT&CK
 - [**EternalBlue (MS17-010)**](https://github.com/KeizerSec/Cybersec-Lab/blob/main/blue.md) — Exploitation SMB via Metasploit, RCE, post-exploitation
 - [**Kenobi**](https://github.com/KeizerSec/Cybersec-Lab/blob/main/kenobi.md) — ProFTPD + Samba NFS, PATH Variable Injection (PrivEsc)
-- **Kernel Rootkit Analysis** — Hooking syscall, persistence, analyse comportementale
+- [**Kernel Rootkit Analysis**](https://github.com/KeizerSec/Offensive-Research) — Hooking syscall, persistence, analyse comportementale
 - [**Prompt Injection LLM**](https://github.com/KeizerSec/LitM-Whitepaper) — Bypass garde-fous, escalade de contexte, architectures multi-modèles
 
 > 📂 D'autres write-ups disponibles dans [`Cybersec-Lab`](https://github.com/KeizerSec/Cybersec-Lab) (RootMe, Vulnversity, cheatsheet reverse-shell, log parser SSH).
